@@ -1,8 +1,8 @@
 ![image](display/Precognition_Lab.jpg)
 
-<p align="center">
-  <strong>🌱 Grow upward by rooting downward. 🚀</strong>
-</p>
+<h1 align="center">
+  <strong>🌱 Grow upward by rooting downward 🚀</strong>
+</h1>
 
 ## Hi there 👋
 
