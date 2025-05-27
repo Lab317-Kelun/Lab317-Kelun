@@ -1,5 +1,9 @@
 ![image](display/Precognition_Lab.jpg)
 
+<p align="center">
+  <strong>🌱 Grow upward by rooting downward. 🚀</strong>
+</p>
+
 ## Hi there 👋
 
 - 🔭 I am currently working as a research assistant in [Liang Junwei's laboratory(Precognition Lab)](https://junweiliang.me/) at HKUST(GuangZhou).
