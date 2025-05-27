@@ -10,10 +10,12 @@
 - 🌱 I am currently learning reinforcement learning, imitation learning, and teleoperation for whole-body control of humanoid robots.
 - 💬 Ask me about humanoid control, teleoperation, and embodied intelligence.
 - 📫 You can reach me at: kelun0603@gmail.com or 1732894608@qq.com
-
-[![Kelun GitHub stats](https://github-readme-stats.vercel.app/api?username=Lab317-Kelun&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lab317-Kelun&count_private=true&show_icons=true&theme=tokyonight" alt="Kelun GitHub stats" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
