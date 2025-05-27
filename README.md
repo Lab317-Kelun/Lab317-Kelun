@@ -1,4 +1,5 @@
-![image](display/Precognition Lab.JPG)
+![image](display/Precognition_Lab.JPEG)
+![image](display/header.jpeg)
 
 ## Hi there 👋
 
