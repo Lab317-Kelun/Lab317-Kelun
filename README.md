@@ -1,3 +1,5 @@
+![image](display/Precognition Lab.jpg)
+
 ## Hi there 👋
 
 - 🔭 I am currently working as a research assistant in [Liang Junwei's laboratory(Precognition Lab)](https://junweiliang.me/) at HKUST(GuangZhou).
