@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Lab317-Kelun&theme=xcode" /> </div>
+[![Kelun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lab317-Kelun&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
