@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on whole-body control of the humanoid robot and embodied intelligence at the Precognition Lab, HKUST (Guangzhou).
+- 🔭 I am currently working as a research assistant in Liang Junwei's laboratory(Precognition Lab) at HKUST(GuangZhou).
 - 🌱 I’m currently learning reinforcement learning, imitation learning, and teleoperation for whole-body robot control.
 - 💬 Ask me about humanoid control, teleoperation, and embodied intelligence.
 - 📫 How to reach me: kelun0603@gmail.com / 1732894608@qq.com
