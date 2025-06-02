@@ -17,8 +17,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lab317-Kelun&theme=react-dark" width="80%">
-  </a>
-</p>
+
