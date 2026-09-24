@@ -8,9 +8,3 @@
 * 🤖 My research focuses on **humanoid robots**, with an emphasis on **VLA&WAM, locomotion, and loco-manipulation**.
 * 🌱 I am interested in developing intelligent humanoid robots that can perceive, reason, and interact with the physical world.
 * 📫 You can reach me at: [kelun0603@gmail.com](mailto:kelun0603@gmail.com) or [kelun0603@163.com](mailto:kelun0603@163.com)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lab317-Kelun&count_private=true&show_icons=true&theme=tokyonight" alt="Kelun GitHub stats" />
-  </a>
-</p>
