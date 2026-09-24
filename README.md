@@ -1,20 +1,16 @@
-![image](display/Precognition_Lab.jpg)
-
 <h1 align="center">
   <strong>🌱 Grow upward by rooting downward 🚀</strong>
 </h1>
 
 ## Hi there 👋
 
-- 🔭 I am currently working as a research assistant in [Liang Junwei's laboratory(Precognition Lab)](https://junweiliang.me/) at HKUST(GuangZhou).
-- 🌱 I am currently learning reinforcement learning, imitation learning, and teleoperation for whole-body control of humanoid robots.
-- 💬 Ask me about humanoid control, teleoperation, and embodied intelligence.
-- 📫 You can reach me at: kelun0603@gmail.com or kelun0603@163.com
- 
+* 🔭 I am currently a Ph.D. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Renjing Xu](https://renjingxu.github.io/).
+* 🤖 My research focuses on **humanoid robots**, with an emphasis on **VLA&WAM, locomotion, and loco-manipulation**.
+* 🌱 I am interested in developing intelligent humanoid robots that can perceive, reason, and interact with the physical world.
+* 📫 You can reach me at: [kelun0603@gmail.com](mailto:kelun0603@gmail.com) or [kelun0603@163.com](mailto:kelun0603@163.com)
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Lab317-Kelun&count_private=true&show_icons=true&theme=tokyonight" alt="Kelun GitHub stats" />
   </a>
 </p>
-
-
